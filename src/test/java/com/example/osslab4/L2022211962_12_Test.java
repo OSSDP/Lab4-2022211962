@@ -11,7 +11,7 @@ public class L2022211962_12_Test {
     @Test
     public void testMultiply_ValidInputs() {
         Solution solution = new Solution();
-        assertEquals("6", solution.multiply("2", "3"));
+        assertEquals("在这里做了修改", solution.multiply("2", "3"));
         assertEquals("56088", solution.multiply("123", "456"));
     }
 
